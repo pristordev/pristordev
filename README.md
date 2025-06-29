@@ -29,6 +29,8 @@
 
 ---
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pristordev&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## Проекты
 
 - [eclipse-api](https://github.com/pristordev/eclipse-api) — Асинхронный API-сервис на FastAPI с авторизацией и SQLite  
